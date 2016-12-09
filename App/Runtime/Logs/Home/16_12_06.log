@@ -1,0 +1,1646 @@
+[ 2016-12-06T15:54:29+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008457s ]
+
+[ 2016-12-06T15:54:32+08:00 ] 127.0.0.1 /moblude
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-12-06T15:54:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T15:54:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-12-06T15:54:59+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-12-06T15:55:32+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T15:55:41+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-12-06T15:55:43+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-12-06T15:59:52+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-12-06T16:01:06+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-12-06T16:01:22+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2016-12-06T16:02:41+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-06T16:03:10+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T16:07:39+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-12-06T16:10:39+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-12-06T16:14:56+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T16:20:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-12-06T16:20:57+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-06T16:21:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 模板不存在:./tpl/wanju3//index.html
+
+[ 2016-12-06T16:21:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-06T16:21:12+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-12-06T16:21:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T16:21:18+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-12-06T16:23:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-12-06T16:25:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-12-06T16:30:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-06T16:30:21+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T16:55:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-12-06T16:55:59+08:00 ] 127.0.0.1 /Public/upload/seller/2016/12-06/584650e94421f.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T16:55:59+08:00 ] 127.0.0.1 /Public/upload/seller/2016/12-06/58465186035a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-12-06T17:08:47+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-12-06T17:21:28+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-12-06T17:21:54+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-12-06T17:22:31+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-12-06T17:24:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-12-06T17:28:25+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-12-06T17:29:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001982s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-12-06T17:35:36+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-12-06T17:35:53+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001592s ]
+
+[ 2016-12-06T17:35:59+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-06T17:39:46+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T17:48:13+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-12-06T17:49:33+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+
+[ 2016-12-06T17:52:16+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002383s ]
+
+[ 2016-12-06T17:54:56+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-06T17:55:18+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-12-06T19:15:58+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-06T19:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-06T19:17:44+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-12-06T19:17:50+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569cb6fe1e881.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c41dec62a7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5d125e278.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-06T19:18:07+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2016-12-06T19:24:05+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-12-06T19:27:17+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c862c24b2e.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-06T19:27:17+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-18/569c5aa81cf76.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-12-06T19:27:17+08:00 ] 127.0.0.1 /Public/upload/goods/2016/07-28/579a0b5a31499.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-12-06T19:27:17+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f3545ea2b6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2016-12-06T19:27:17+08:00 ] 127.0.0.1 /Public/upload/goods/2016/01-20/569f35fba0eb2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-12-06T19:32:48+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-12-06T19:33:55+08:00 ] 127.0.0.1 /Public/upload/seller/2016/12-06/584650e94421f.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-12-06T19:33:55+08:00 ] 127.0.0.1 /Public/upload/seller/2016/12-06/58465186035a4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-12-06T19:53:19+08:00 ] 127.0.0.1 /Public/upload/decoration/2016/12-06/584627bf64acd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2016-12-06T19:53:19+08:00 ] 127.0.0.1 /Public/upload/decoration/2016/12-06/584626be39972.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-12-06T19:57:42+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-06T19:58:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-12-06T19:58:10+08:00 ] 127.0.0.1 /Public/upload/goods/2016/03-09/56e01a4088d3b.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-12-06T20:36:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-12-06T20:36:18+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-06T20:36:23+08:00 ] 127.0.0.1 /Store/cover/sn_id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-12-06T20:36:23+08:00 ] 127.0.0.1 /Public/js/layer/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+

@@ -1,0 +1,645 @@
+[ 2016-12-07T09:11:29+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-12-07T09:14:22+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-12-07T09:14:27+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-12-07T09:14:29+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-12-07T09:15:29+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-12-07T09:15:52+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2016-12-07T10:29:14+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-07T10:29:18+08:00 ] 127.0.0.1 /Mobile/Store/store_news/store_id/3/sn_id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-12-07T10:29:20+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-12-07T10:29:23+08:00 ] 127.0.0.1 /Mobile/Store/newscontent/sn/19/text/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-12-07T10:30:46+08:00 ] 127.0.0.1 /Mobile/Store/newscontent/sn/19/text/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-07T10:32:00+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-12-07T11:15:19+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-12-07T11:15:25+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2016-12-07T11:15:41+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-07T11:16:37+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-07T11:16:39+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-07T11:17:54+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-07T11:18:08+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-07T11:18:53+08:00 ] 127.0.0.1 /Mobile/Store/newsList/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-12-07T11:19:28+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-12-07T11:19:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-12-07T11:20:33+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2016-12-07T11:20:42+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-12-07T11:20:57+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-12-07T11:20:58+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2016-12-07T11:20:58+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-12-07T11:20:58+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-12-07T11:20:58+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-12-07T11:20:58+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001490s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011352s ]
+
+[ 2016-12-07T11:21:38+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/19.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/LOGO2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/demo-2.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/banner_4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/icosousuo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/css/reset.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/images/a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/stopExecutionOnTimeout.js?t=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2016-12-07T11:21:59+08:00 ] 127.0.0.1 /Mobile/Store/index/store_id/3/sn/js/lb.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-12-07T12:06:15+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-12-07T12:06:41+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-12-07T12:06:56+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-12-07T12:07:03+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
