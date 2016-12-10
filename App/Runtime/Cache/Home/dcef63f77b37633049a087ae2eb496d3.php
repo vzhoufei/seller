@@ -531,6 +531,30 @@ $('#favoriteStore').click(function () {
 						</div>
 
 
+					<?php if(is_array($recommend)): foreach($recommend as $key=>$recomend_goods): ?><div class="mian_goodO6R21">
+							<p><?php echo ($recomend_goods["cat_name"]); ?></p>
+							<ul>
+
+							<?php if(is_array($recomend_goods[cat_id_goods])): foreach($recomend_goods[cat_id_goods] as $key=>$vvv): ?><li><a target="_blank" href="<?php echo C('DOMAIN'); echo U('Goods/goodsInfo',array('id'=>$vvv[goods_id]));?>"><img src="<?php echo (goods_thum_images($vvv["goods_id"],240,240)); ?>"></a>
+									<span class="mian_goodO5M">¥<b><?php echo ($vvv["shop_price"]); ?></b></span>
+									<a target="_blank" href="<?php echo C('DOMAIN'); echo U('Goods/goodsInfo',array('id'=>$vvv[goods_id]));?>" class="mian_goodO5T"><?php echo (getSubstr($vvv["goods_name"],0,30)); ?></a>
+									<a target="_blank" href="<?php echo C('DOMAIN'); echo U('Goods/goodsInfo',array('id'=>$vvv[goods_id]));?>" class="qianggoua">
+
+										<?php if($vvv[prom_type] > 0): ?><div class="qianggou"><span class="qianggou2">
+							                    <?php if($vvv[prom_type] == 1): ?>抢购商品<?php endif; ?>
+							                    <?php if($vvv[prom_type] == 2): ?>团购商品<?php endif; ?>
+							                    <?php if($vvv[prom_type] == 3): ?>限时折扣<?php endif; ?>
+											</span></div><?php endif; ?>
+									</a>
+									<span  class="mian_goodO6R1M"><!-- <img src="<?php echo STYLE;?>/images/1627336_1256177305.png"><img src="<?php echo STYLE;?>/images/logo_alipay.gif"> --></span>
+									<span class="mian_goodO6R1N">成交<?php echo ($v["sales_sum"]); ?>笔</span></li><?php endforeach; endif; ?>
+								<div class="cl"></div>
+							</ul>
+						</div><?php endforeach; endif; ?>
+
+
+
+
 <!-- 
 						<div class="mian_goodO6R22">
 							<p>多米诺精品</p>

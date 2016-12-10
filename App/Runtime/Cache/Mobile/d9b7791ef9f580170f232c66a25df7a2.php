@@ -51,15 +51,15 @@
 
 
 					<?php if(is_array($navigation)): foreach($navigation as $key=>$vo): ?><li>
-				<?php if($vo[sn_is_list] == 1): ?><a href="<?php echo U('newsList',array('store_id'=>$store[store_id],'sn'=>$vo[sn_id]));?>"><i class="glyphicon glyphicon-info-sign"></i><?php echo ($vo["sn_title"]); ?></a>
+				<?php if($vo[sn_is_list] == 1): ?><a href="<?php echo U('newsList',array('store_id'=>$store[store_id],'sn'=>$vo[sn_id]));?>"><i class="glyphicon"></i><?php echo ($vo["sn_title"]); ?></a>
 				<?php elseif(empty($vo[sn_url]) and $vo[sn_is_list] == 0): ?>
-					<a href="<?php echo U('store_news',array('store_id'=>$store[store_id],'sn_id'=>$vo[sn_id]));?>"><i class="glyphicon glyphicon-info-sign"></i> <?php echo ($vo["sn_title"]); ?></a>
+					<a href="<?php echo U('store_news',array('store_id'=>$store[store_id],'sn_id'=>$vo[sn_id]));?>"><i class="glyphicon"></i> <?php echo ($vo["sn_title"]); ?></a>
 				
 				<?php else: ?>
-				<a href="<?php echo ($vo["sn_url"]); ?>"><i class="glyphicon glyphicon-info-sign"></i><?php echo ($vo["sn_title"]); ?></a><?php endif; ?>
+				<a href="<?php echo ($vo["sn_url"]); ?>"><i class="glyphicon"></i><?php echo ($vo["sn_title"]); ?></a><?php endif; ?>
 
 					</li><?php endforeach; endif; ?>
-					<?php if(is_array($goods_class)): foreach($goods_class as $key=>$vo): ?><li><a href="<?php echo U('goods_list',array('store_id'=>$store[store_id],'cat_id'=>$vo[cat_id]));?>"><i class="glyphicon glyphicon-info-sign"></i> <?php echo ($vo["cat_name"]); ?> </a></li><?php endforeach; endif; ?>
+					<?php if(is_array($goods_class)): foreach($goods_class as $key=>$vo): ?><li><a href="<?php echo U('goods_list',array('store_id'=>$store[store_id],'cat_id'=>$vo[cat_id]));?>"><i class="glyphicon"></i> <?php echo ($vo["cat_name"]); ?> </a></li><?php endforeach; endif; ?>
 				</ul>
 			</nav>
 			<button class="close-button" id="close-button">C</button>
@@ -191,7 +191,16 @@
 						<ul>  
 					<li><a class="active" href="<?php echo U('Mobile/Store/index',array('store_id'=>$store[store_id]));?>"><i class="glyphicon glyphicon-home"></i> 首页 </a></li>
 
-					<?php if(is_array($navigation)): foreach($navigation as $key=>$vo): ?><li><a href="<?php echo U('store_news',array('store_id'=>$store[store_id],'sn_id'=>$vo[sn_id]));?>"><i class="glyphicon"></i> <?php echo ($vo["sn_title"]); ?> </a></li><?php endforeach; endif; ?>
+					<?php if(is_array($navigation)): foreach($navigation as $key=>$vo): ?><li>
+				<?php if($vo[sn_is_list] == 1): ?><a href="<?php echo U('newsList',array('store_id'=>$store[store_id],'sn'=>$vo[sn_id]));?>"><i class="glyphicon"></i><?php echo ($vo["sn_title"]); ?></a>
+				<?php elseif(empty($vo[sn_url]) and $vo[sn_is_list] == 0): ?>
+					<a href="<?php echo U('store_news',array('store_id'=>$store[store_id],'sn_id'=>$vo[sn_id]));?>"><i class="glyphicon"></i> <?php echo ($vo["sn_title"]); ?></a>
+				
+				<?php else: ?>
+				<a href="<?php echo ($vo["sn_url"]); ?>"><i class="glyphicon"></i><?php echo ($vo["sn_title"]); ?></a><?php endif; ?>
+
+					</li><?php endforeach; endif; ?>
+					
 						</ul> 
 						<div class="clearfix"> </div>
 					</div> 

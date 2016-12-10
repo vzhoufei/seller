@@ -1,0 +1,10 @@
+[ 2016-12-10T09:15:31+08:00 ] 127.0.0.1 /mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-12-10T09:16:08+08:00 ] 127.0.0.1 /Mobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
