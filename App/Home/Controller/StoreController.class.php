@@ -31,6 +31,9 @@ class StoreController extends CommonController
         if ($goods_id_arr){
             $goods_id_arr = M('goods_images')->where("goods_id in (" . implode(',', $goods_id_arr) . ")")->cache(true)->select();
         }
+
+        $text = M('store_mod')->where('store_id = '.$this->store_id['store_id'])->select();
+        $this->assign('text',str_replace('/Public', C('DOMAIN').'/Public', unserialize($text[0]['content'])));
         $this->assign('sn_store_id', $store_id);
     	$this->assign('navigation', $this->navigation);
         $this->assign('hot_goods', $hot_goods);
@@ -39,7 +42,8 @@ class StoreController extends CommonController
         $this->assign('recomend_goods', $recomend_goods);
         $this->assign('goods_images', $goods_images); //相册图片
         $this->assign('recommend',$this->recommend());
-        $this->display('/index');//首页推荐
+        $this->assign('recommend_news',$this->recommend_news());
+        $this->display('/index');
     }
 
 
@@ -60,6 +64,25 @@ class StoreController extends CommonController
 
         return $recommend;
     }
+
+
+
+    /**
+     * 首页推荐 文章
+     */
+    public function recommend_news()
+    {
+        //查询首页推荐栏目
+        $store_art_m = M('store_art');
+        $recommend = M('store_navigation')->where(array('sn_store_id'=>$this->store_id['store_id'],'sn_is_list'=>1,'sn_is_show'=>1,'sn_is_home'=>1))->select();
+        foreach($recommend as &$v){
+            // 查询推荐商品
+            $v['news'] = $store_art_m->where('sn_id = '.$v['sn_id'])->field("id,sn_id,title,author,timer,pc_click,keyword,description,concat('".C('DOMAIN')."',newsimg) as newsimg")->limit($v['sn_show_num'])->select(); //concat()
+        }
+        return $recommend;
+    }
+    
+
     
 
 
@@ -107,6 +130,14 @@ class StoreController extends CommonController
         foreach($goods_list as &$v){
             $v['original_img'] = str_replace('/Public', C('DOMAIN').'/Public', $v['original_img']);
         }
+
+
+        //栏目信息
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public',M('store_goods_class')->where(array('store_id' => $this->store_id['store_id'], 'cat_id' => $cat_id))->find());
+        $this->assign('navlist', $navlist);
+
+
+
         $this->assign('link_arr', $link_arr);
         $this->assign('goods_list', $goods_list);
         $this->assign('goods_images', $goods_images);  //相册图片
@@ -125,7 +156,7 @@ class StoreController extends CommonController
      */
      public function newsList()
     {
-         $storeid = $this->store_id['store_id'];
+        $storeid = $this->store_id['store_id'];
         $sn_id = (empty($_GET['sn']))?0:(int)$_GET['sn'];
         $news = M('store_art')->where('store = '.$storeid.' and sn_id in (0,'.$sn_id.')')->page($_GET['p'].',15')->select();
         $count = M('store_art')->where('store = '.$storeid.' and sn_id in (0,'.$sn_id.')')->count();
@@ -137,6 +168,9 @@ class StoreController extends CommonController
         foreach($news as &$v){
             $v['newsimg'] = str_replace('/Public', C('DOMAIN').'/Public', $v['newsimg']);
         }
+        //栏目信息
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public', M('store_navigation')->where(array('store_id' => $storeid,'sn_id'=>$sn_id))->find());
+        $this->assign('navlist', $navlist);
         $this->assign('collect_goods', $collect_goods);
         $this->assign('navigation', $this->navigation);
         $this->assign('page',$page->show());
@@ -168,6 +202,9 @@ class StoreController extends CommonController
         $this->assign('news',$news);
         $this->assign('next',$next['id']);//下一篇
         $this->assign('pre',$pre['id']);//上一篇
+
+        //点击量
+        M('store_art')->where('id='.$text)->setInc('pc_click',1);
         $this->display('/news');
     }
 
@@ -180,8 +217,8 @@ class StoreController extends CommonController
     public function store_news()
     {
         $sn_id = I('sn_id');
-        $news = str_replace('/Public', C('DOMAIN').'/Public',M('store_navigation')->where(array('sn_store_id' => $this->store_id['store_id'], 'sn_id' => $sn_id))->find());
-        $this->assign('news', $news);
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public',M('store_navigation')->where(array('sn_store_id' => $this->store_id['store_id'], 'sn_id' => $sn_id))->find());
+        $this->assign('navlist', $navlist);
        $this->display('/store_news');
 
     }

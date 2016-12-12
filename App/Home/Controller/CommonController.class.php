@@ -14,8 +14,9 @@ class CommonController extends Controller
         }
     	$this->store_id = $store_id = M('store')->where(array('domain'=>$domain))->field('store_id')->find();//查询当前域名
     	if($store_id){
-    			 C('DEFAULT_THEME',M('store')->where(array('store_id' => $store_id['store_id']))->getField('tpl').$this->store_id['store_id']);//模板名称
-         		 define('STYLE',C('VIEW_PATHS').substr(C('DEFAULT_THEME'),0,-1));//css js路径
+    			 C('DEFAULT_THEME',M('store')->where(array('store_id' => $store_id['store_id']))->getField('tpl'));//模板名称
+         		 define('STYLE',C('VIEW_PATHS').C('DEFAULT_THEME'));//css js路径
+                 // echo C('DEFAULT_THEME');
     	}else{
 
     		header("location:".C('DOMAIN')."");//跳转到主网站
@@ -39,35 +40,8 @@ class CommonController extends Controller
             unset($store_info['store_id']);
             $this->assign('store', $store_info);
             $this->assign('navigation',$navigation);
-
-
-            //从远程加载模板
- 			$tplconfig = include("./tpl/config".$this->store_id['store_id'].".php"); //引入当前模板配置
-            if($tplconfig['tpl'] !=  C('DEFAULT_THEME')){
-
-            	foreach(tpl() as $vc){
-            		@unlink('./tpl/'.$tplconfig['tpl'].'/'.$vc);//删除原模板
-            	}
-            	rmdir('./tpl/'.$tplconfig['tpl']);//删除模板文件夹
-            	mkdir('./tpl/'.C('DEFAULT_THEME'),777,true);//重新创建新文件夹
-            	foreach(tpl() as $v){
-            		$url = C('DOMAIN').'/Merchants_tpl/pc/'.substr(C('DEFAULT_THEME'),0,-1).'/'.$v;//创建模板地址
-            		$tplhtml = gettpl($url);//获取模板
-        			file_put_contents('./tpl/'.C('DEFAULT_THEME').'/'.$v,$tplhtml);//写入文件
-            	}
-
-            	//更改配置文件
-            	$str_tpl = "<?php
-						return array(
-
-						        'tpl'=>'".C('DEFAULT_THEME')."',
-						);";
-
-            	file_put_contents("./tpl/config".$this->store_id['store_id'].".php",$str_tpl);
-            }
-
-
-
+            $this->load_tpl();//从远程加载模板
+ 
         //店铺内部分类
         $store_goods_class_list = M('store_goods_class')->where(array('store_id' => $store_id,'is_show'=>'1'))->select();//zhoufei 增加了 ,'is_show'=>'1'
         if ($store_goods_class_list) {
@@ -96,7 +70,34 @@ class CommonController extends Controller
 
 	}
 
+    //从远程加载模板
+    public function load_tpl()
+    {
+            $tpldir = is_dir('./tpl/'.C('DEFAULT_THEME'));//检测当前模板是否存在
+            if(!$tpldir){
+                //创建新文件夹
+                 if(mkdir('./tpl/'.C('DEFAULT_THEME'),777,true)){
+                //从远程加载模板
+                foreach(tpl() as $v){
+                    $url = C('DOMAIN').'/Merchants_tpl/pc/'.C('DEFAULT_THEME').'/'.$v;//创建模板地址
+                    $tplhtml = gettpl($url);//获取模板
+                    file_put_contents('./tpl/'.C('DEFAULT_THEME').'/'.$v,$tplhtml);//写入文件
+                }
+                 }else{
+
+                    echo '创建目录失败！请检测目录权限！';
+                 }
+            }
+            
+    }
+
+
 
 
 
 }
+
+
+
+
+

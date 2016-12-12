@@ -125,6 +125,11 @@ class StoreController extends CommonController
          foreach($goods_list as &$v){
             $v['original_img'] = str_replace('/Public',C('DOMAIN').'/Public', $v['original_img']);
         }
+
+        //栏目信息
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public',M('store_goods_class')->where(array('store_id' => $this->store_id['store_id'], 'cat_id' => $cat_id))->find());
+        $this->assign('navlist', $navlist);
+
         $this->assign('link_arr', $link_arr);
         $this->assign('goods_list', $goods_list);
         $this->assign('goods_images', $goods_images);  //相册图片
@@ -163,6 +168,10 @@ class StoreController extends CommonController
         foreach($news as &$v){
             $v['newsimg'] = str_replace('/Public', C('DOMAIN').'/Public', $v['newsimg']);
         }
+
+        //栏目信息
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public', M('store_navigation')->where(array('store_id' => $storeid,'sn_id'=>$sn_id))->find());
+        $this->assign('navlist', $navlist);
         $this->page('?');//上一页 下一页 按钮
         $this->assign('hot_goods', $hot_goods);
         $this->assign('collect_goods', $collect_goods);
@@ -194,6 +203,8 @@ class StoreController extends CommonController
         $this->assign('news',str_replace('/Public', C('DOMAIN').'/Public', $news));
         $this->assign('next',$next);//下一篇
         $this->assign('pre',$pre);//上一篇
+        //点击量
+        M('store_art')->where('id='.$text)->setInc('m_click',1);
         $this->display('/news');
     }
 
@@ -204,8 +215,8 @@ class StoreController extends CommonController
     public function store_news()
     {
         $sn_id = I('sn_id');
-        $news = str_replace('/Public', C('DOMAIN').'/Public',M('store_navigation')->where(array('sn_store_id' => $this->store_id['store_id'], 'sn_id' => $sn_id))->find());
-        $this->assign('news', $news);
+        $navlist = str_replace('/Public', C('DOMAIN').'/Public',M('store_navigation')->where(array('sn_store_id' => $this->store_id['store_id'], 'sn_id' => $sn_id))->find());
+        $this->assign('navlist', $navlist);
        $this->display('/store_news');
 
     }
